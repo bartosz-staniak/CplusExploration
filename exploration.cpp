@@ -5,6 +5,8 @@ using namespace std;
 int main ()
 {
 
+bool myNewBoolean;
+
 char quitApp;
  
 cout << "Press 'y' and then press Enter key to end the program. \n";
