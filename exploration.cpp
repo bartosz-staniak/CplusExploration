@@ -20,5 +20,6 @@ else
 	}
 
 cout << "Press any letter key then Enter key to end the program. \n";
+cin >> quitApp;
     
 }
