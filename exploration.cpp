@@ -16,7 +16,7 @@ if (quitApp == 'y')
 	}
 else
 	{
-		
+		cout << "Testing";
 	}
 
 // return 0;
