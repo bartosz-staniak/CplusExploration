@@ -7,7 +7,7 @@ int main ()
 
 char quitApp;
  
-cout << "Press any letter key then Enter key to end the program.";
+cout << "Press any letter key then Enter key to end the program. \n";
 cin >> quitApp;
 
 if (quitApp == 'y')
