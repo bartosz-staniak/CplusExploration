@@ -6,6 +6,7 @@ int main ()
 {
 
 bool myNewBoolean;
+int a;
 
 char quitApp;
  
