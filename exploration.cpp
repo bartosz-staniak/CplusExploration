@@ -14,6 +14,6 @@ if (quitApp == 'y')
 	return 0;	
 }
 
-return 0;
+// return 0;
     
 }
