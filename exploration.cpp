@@ -16,9 +16,9 @@ if (quitApp == 'y')
 	}
 else
 	{
-		cout << "Testing";
+		cout << "Testing \n";
 	}
 
-cout << "Press any letter key then Enter key to end the program.";
+cout << "Press any letter key then Enter key to end the program. \n";
     
 }
