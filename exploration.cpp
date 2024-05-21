@@ -9,6 +9,8 @@ bool myNewBoolean;
 int a;
 int b;
 
+cout << "Insert an integer.";
+
 
 char quitApp;
  
