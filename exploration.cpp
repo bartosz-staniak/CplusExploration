@@ -7,6 +7,8 @@ int main ()
 
 bool myNewBoolean;
 int a;
+int b;
+
 
 char quitApp;
  
