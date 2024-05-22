@@ -24,7 +24,7 @@ if (myNewBoolean == 0)
 {
 	cout << myNewBoolean << endl << endl;
 }
-else if (myNewboolean == 1)
+else if (myNewBoolean == 1)
 {
 	
 }
