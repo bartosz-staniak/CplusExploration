@@ -9,7 +9,7 @@ bool myNewBoolean;
 int myNewInteger;
 int userSelectedValue;
 
-cout << "Insert a natural number." << endl;
+cout << "Insert a natural number smaller than 5." << endl;
 cin >> userSelectedValue;
 if (cin.fail() || userSelectedValue < 1)
 {
