@@ -12,12 +12,12 @@ int userSelectedValue;
 cout << "Insert a natural number smaller than 5." << endl;
 cin >> userSelectedValue;
 
-cout << "You entered " << userSelectedValue << endl;
-
 if (cin.fail() || userSelectedValue < 1)
 {
 	cout << "Incorrect type of data" << endl;
 }
+
+cout << "You entered " << userSelectedValue << endl;
 
 myNewBoolean =! (userSelectedValue < 5);
 if (myNewBoolean == 0)
