@@ -16,7 +16,7 @@ if (cin.fail() || userSelectedValue < 1)
 	cout << "Incorrect type of data";
 }
 
-myNewBoolean = (userSelectedValue < 5);
+myNewBoolean =! (userSelectedValue < 5);
 cout << myNewBoolean;
 
 char quitApp;
