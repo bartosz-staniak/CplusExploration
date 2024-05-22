@@ -17,7 +17,7 @@ if (cin.fail() || userSelectedValue < 1)
 }
 
 myNewBoolean =! (userSelectedValue < 5);
-cout << myNewBoolean << endl;
+cout << myNewBoolean << endl << endl;
 
 char quitApp;
  
