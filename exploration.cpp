@@ -11,9 +11,9 @@ int userSelectedValue;
 
 cout << "Insert an integer." << endl;
 cin >> userSelectedValue;
-if (cin.fail)
+if (cin.fail())
 {
-	
+	cout << "Incorrect type of data";
 }
 
 myNewBoolean = (userSelectedValue < 5);
