@@ -21,7 +21,7 @@ if (myNewBoolean == 0)
 {
 	
 }
-else if (myNewboolean == 0)
+else if (myNewboolean == 1)
 {
 	
 }
