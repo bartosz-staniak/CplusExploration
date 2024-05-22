@@ -17,7 +17,7 @@ if (cin.fail() || userSelectedValue < 1)
 }
 
 myNewBoolean =! (userSelectedValue < 5);
-if (myNewBoolean == 1)
+if (myNewBoolean == 0)
 {
 	
 }
