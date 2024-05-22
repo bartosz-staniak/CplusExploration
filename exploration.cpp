@@ -11,7 +11,7 @@ int userSelectedValue;
 
 cout << "Insert an integer." << endl;
 cin >> userSelectedValue;
-if (cin.fail())
+if (cin.fail() || userSelectedValue < 1)
 {
 	cout << "Incorrect type of data";
 }
