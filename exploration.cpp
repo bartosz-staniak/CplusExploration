@@ -13,7 +13,7 @@ cout << "Insert a natural number." << endl;
 cin >> userSelectedValue;
 if (cin.fail() || userSelectedValue < 1)
 {
-	cout << "Incorrect type of data";
+	cout << "Incorrect type of data" << endl;
 }
 
 myNewBoolean =! (userSelectedValue < 5);
