@@ -21,6 +21,11 @@ if (myNewBoolean == 1)
 {
 	
 }
+else if (myNewboolean == 0)
+{
+	
+}
+
 cout << myNewBoolean << endl << endl;
 
 myNewInteger =! (userSelectedValue < 5);
