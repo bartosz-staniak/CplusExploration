@@ -9,7 +9,7 @@ bool myNewBoolean;
 int a;
 int b;
 
-cout << "Insert an integer.";
+cout << "Insert an integer." << endl;
 
 
 char quitApp;
