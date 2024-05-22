@@ -12,7 +12,7 @@ int userSelectedValue;
 cout << "Insert an integer." << endl;
 cin >> userSelectedValue;
 
-myNewBoolean = (userSelectedValue);
+myNewBoolean = (userSelectedValue < 5);
 cout << myNewBoolean;
 
 char quitApp;
