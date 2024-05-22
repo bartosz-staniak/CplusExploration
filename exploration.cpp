@@ -16,6 +16,10 @@ if (cin.fail() || userSelectedValue < 1)
 {
 	cout << "Incorrect type of data" << endl;
 }
+else
+{
+	
+}
 
 cout << "You entered " << userSelectedValue << endl;
 
