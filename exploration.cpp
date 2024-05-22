@@ -19,7 +19,7 @@ if (cin.fail() || userSelectedValue < 1)
 myNewBoolean =! (userSelectedValue < 5);
 cout << myNewBoolean << endl << endl;
 
-myNewInteger = (userSelectedValue < 5);
+myNewInteger =! (userSelectedValue < 5);
 cout << myNewInteger << endl << endl;
 
 char quitApp;
