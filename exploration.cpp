@@ -13,6 +13,7 @@ cout << "Insert an integer." << endl;
 cin >> userSelectedValue;
 
 myNewBoolean = userSelectedValue;
+cout >> myNewBoolean;
 
 char quitApp;
  
