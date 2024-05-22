@@ -18,10 +18,8 @@ if (cin.fail() || userSelectedValue < 1)
 }
 else
 {
-	
+	cout << "You entered " << userSelectedValue << endl;
 }
-
-cout << "You entered " << userSelectedValue << endl;
 
 myNewBoolean =! (userSelectedValue < 5);
 if (myNewBoolean == 0)
