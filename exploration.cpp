@@ -19,6 +19,8 @@ if (cin.fail() || userSelectedValue < 1)
 myNewBoolean =! (userSelectedValue < 5);
 cout << myNewBoolean << endl << endl;
 
+myNewInteger =! (userSelectedValue < 5);
+
 char quitApp;
  
 cout << "Press 'y' and then press Enter key to end the program. \n";
