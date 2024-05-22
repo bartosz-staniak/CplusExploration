@@ -10,6 +10,7 @@ int a;
 int userSelectedValue;
 
 cout << "Insert an integer." << endl;
+cin >> userSelectedValue;
 
 
 char quitApp;
