@@ -12,6 +12,7 @@ int userSelectedValue;
 cout << "Insert an integer." << endl;
 cin >> userSelectedValue;
 
+myNewBoolean = userSelectedValue;
 
 char quitApp;
  
