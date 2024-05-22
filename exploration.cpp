@@ -9,7 +9,7 @@ bool myNewBoolean;
 int myNewInteger;
 int userSelectedValue;
 
-cout << "Insert a whole number." << endl;
+cout << "Insert a natural number." << endl;
 cin >> userSelectedValue;
 if (cin.fail() || userSelectedValue < 1)
 {
