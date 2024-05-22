@@ -6,6 +6,7 @@ int main ()
 {
 
 bool myNewBoolean;
+int myNewInteger;
 int userSelectedValue;
 
 cout << "Insert an integer." << endl;
