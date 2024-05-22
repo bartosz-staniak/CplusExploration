@@ -17,6 +17,10 @@ if (cin.fail() || userSelectedValue < 1)
 }
 
 myNewBoolean =! (userSelectedValue < 5);
+if (myNewBoolean == 1)
+{
+	
+}
 cout << myNewBoolean << endl << endl;
 
 myNewInteger =! (userSelectedValue < 5);
