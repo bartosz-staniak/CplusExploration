@@ -28,7 +28,7 @@ if (myNewBoolean == 0)
 }
 else if (myNewBoolean == 1)
 {
-	
+	cout << "Negative of the user selected value when assigned to a boolean variable equals: " << myNewBoolean << endl << endl;
 }
 
 myNewInteger =! (userSelectedValue < 5);
