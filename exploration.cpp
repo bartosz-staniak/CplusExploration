@@ -32,13 +32,13 @@ else if (myNewBoolean == 1)
 }
 
 myNewInteger =! (userSelectedValue < 5);
-if (myNewBoolean == 0)
+if (myNewInteger == 0)
 {
-	cout << "Negative of the user selected value when assigned to a boolean variable equals: " << myNewBoolean << endl << endl;
+	cout << "Negative of the user selected value when assigned to an integer variable equals: " << myNewInteger << endl << endl;
 }
-else if (myNewBoolean == 1)
+else if (myNewInteger == 1)
 {
-	cout << "Negative of the user selected value when assigned to a boolean variable equals: " << myNewBoolean << endl << endl;
+	cout << "Negative of the user selected value when assigned to an integer variable equals: " << myNewInteger << endl << endl;
 }
 
 char quitApp;
